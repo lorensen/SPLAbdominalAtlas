@@ -1,0 +1,12 @@
+Name:  Rib11
+Label: 691
+    count: 6286
+    min: 939
+    max: 1746
+    median: 1638.38
+    mean: 1196
+    sigma: 132.73
+    variance: 17617.2
+    sum: 7.51806e+06
+    region: index(31, 57, 11) size(186, 46, 39)
+    bounding box: (31, 216) (57, 102) (11, 49) 

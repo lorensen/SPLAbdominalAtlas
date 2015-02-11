@@ -1,0 +1,12 @@
+Name:  celiac_trunk
+Label: 16
+    count: 405
+    min: 949
+    max: 1233
+    median: 1638.38
+    mean: 1083.86
+    sigma: 64.4589
+    variance: 4154.96
+    sum: 438964
+    region: index(129, 120, 23) size(11, 18, 8)
+    bounding box: (129, 139) (120, 137) (23, 30) 

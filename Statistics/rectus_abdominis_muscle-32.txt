@@ -1,0 +1,12 @@
+Name:  rectus_abdominis_muscle
+Label: 32
+    count: 72590
+    min: 760
+    max: 1361
+    median: 1638.38
+    mean: 1013.91
+    sigma: 37.5741
+    variance: 1411.81
+    sum: 7.35999e+07
+    region: index(58, 146, 1) size(134, 62, 111)
+    bounding box: (58, 191) (146, 207) (1, 111) 

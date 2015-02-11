@@ -1,0 +1,12 @@
+Name:  inferior_vena_cava
+Label: 8
+    count: 15220
+    min: 562
+    max: 1842
+    median: 1638.38
+    mean: 1059.25
+    sigma: 47.3517
+    variance: 2242.18
+    sum: 1.61218e+07
+    region: index(95, 111, 5) size(44, 32, 78)
+    bounding box: (95, 138) (111, 142) (5, 82) 

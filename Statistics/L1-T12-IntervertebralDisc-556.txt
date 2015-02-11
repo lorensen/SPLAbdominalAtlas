@@ -1,0 +1,12 @@
+Name:  L1-T12-IntervertebralDisc
+Label: 556
+    count: 3151
+    min: 1039
+    max: 1440
+    median: 1638.38
+    mean: 1171.38
+    sigma: 42.6474
+    variance: 1818.8
+    sum: 3.69101e+06
+    region: index(104, 80, 28) size(35, 28, 5)
+    bounding box: (104, 138) (80, 107) (28, 32) 

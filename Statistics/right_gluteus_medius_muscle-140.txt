@@ -1,0 +1,12 @@
+Name:  right_gluteus_medius_muscle
+Label: 140
+    count: 32642
+    min: 893
+    max: 1171
+    median: 1638.38
+    mean: 1040.64
+    sigma: 27.5679
+    variance: 759.99
+    sum: 3.39687e+07
+    region: index(12, 63, 80) size(68, 89, 32)
+    bounding box: (12, 79) (63, 151) (80, 111) 

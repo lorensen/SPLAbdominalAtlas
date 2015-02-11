@@ -1,0 +1,12 @@
+Name:  gallbladder
+Label: 10
+    count: 5885
+    min: 925
+    max: 1052
+    median: 1638.38
+    mean: 1013.16
+    sigma: 18.455
+    variance: 340.587
+    sum: 5.96247e+06
+    region: index(64, 135, 26) size(24, 28, 22)
+    bounding box: (64, 87) (135, 162) (26, 47) 

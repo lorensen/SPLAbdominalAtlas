@@ -1,0 +1,12 @@
+Name:  hepatic_artery_proper
+Label: 20
+    count: 236
+    min: 929
+    max: 1218
+    median: 1638.38
+    mean: 1044.95
+    sigma: 67.0825
+    variance: 4500.07
+    sum: 246608
+    region: index(97, 133, 22) size(14, 8, 7)
+    bounding box: (97, 110) (133, 140) (22, 28) 

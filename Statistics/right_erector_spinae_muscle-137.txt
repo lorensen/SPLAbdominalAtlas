@@ -1,0 +1,12 @@
+Name:  right_erector_spinae_muscle
+Label: 137
+    count: 68254
+    min: 893
+    max: 1312
+    median: 1638.38
+    mean: 1034.89
+    sigma: 33.0976
+    variance: 1095.45
+    sum: 7.06351e+07
+    region: index(60, 48, 1) size(63, 39, 110)
+    bounding box: (60, 122) (48, 86) (1, 110) 

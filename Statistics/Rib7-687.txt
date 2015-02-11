@@ -1,0 +1,12 @@
+Name:  Rib7
+Label: 687
+    count: 4632
+    min: 833
+    max: 1604
+    median: 1638.38
+    mean: 1144.97
+    sigma: 105.809
+    variance: 11195.5
+    sum: 5.3035e+06
+    region: index(24, 112, 1) size(202, 66, 29)
+    bounding box: (24, 225) (112, 177) (1, 29) 

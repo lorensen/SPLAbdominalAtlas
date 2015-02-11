@@ -1,0 +1,12 @@
+Name:  right_hepatic_artery
+Label: 25
+    count: 817
+    min: 911
+    max: 1148
+    median: 1638.38
+    mean: 1055.13
+    sigma: 43.5742
+    variance: 1898.71
+    sum: 862042
+    region: index(58, 108, 23) size(44, 34, 6)
+    bounding box: (58, 101) (108, 141) (23, 28) 

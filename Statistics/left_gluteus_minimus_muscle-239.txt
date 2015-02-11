@@ -1,0 +1,12 @@
+Name:  left_gluteus_minimus_muscle
+Label: 239
+    count: 6426
+    min: 904
+    max: 1148
+    median: 1638.38
+    mean: 1042.65
+    sigma: 28.1415
+    variance: 791.944
+    sum: 6.70005e+06
+    region: index(171, 83, 96) size(41, 67, 16)
+    bounding box: (171, 211) (83, 149) (96, 111) 

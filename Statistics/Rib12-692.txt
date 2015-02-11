@@ -1,0 +1,12 @@
+Name:  Rib12
+Label: 692
+    count: 3624
+    min: 969
+    max: 1750
+    median: 1638.38
+    mean: 1239.09
+    sigma: 133.843
+    variance: 17914
+    sum: 4.49046e+06
+    region: index(55, 63, 21) size(136, 24, 21)
+    bounding box: (55, 190) (63, 86) (21, 41) 

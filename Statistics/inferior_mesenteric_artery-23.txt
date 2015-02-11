@@ -1,0 +1,12 @@
+Name:  inferior_mesenteric_artery
+Label: 23
+    count: 1416
+    min: 901
+    max: 1271
+    median: 1638.38
+    mean: 996.333
+    sigma: 68.9592
+    variance: 4755.37
+    sum: 1.41081e+06
+    region: index(116, 98, 56) size(35, 37, 55)
+    bounding box: (116, 150) (98, 134) (56, 110) 

@@ -1,0 +1,12 @@
+Name:  left_renal_vein
+Label: 128
+    count: 858
+    min: 930
+    max: 1218
+    median: 1638.38
+    mean: 1061.99
+    sigma: 47.5893
+    variance: 2264.74
+    sum: 911186
+    region: index(117, 107, 38) size(53, 23, 5)
+    bounding box: (117, 169) (107, 129) (38, 42) 

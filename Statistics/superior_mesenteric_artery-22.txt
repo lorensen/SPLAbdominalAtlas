@@ -1,0 +1,12 @@
+Name:  superior_mesenteric_artery
+Label: 22
+    count: 1648
+    min: 924
+    max: 1303
+    median: 1638.38
+    mean: 1090.71
+    sigma: 100.822
+    variance: 10165
+    sum: 1.79749e+06
+    region: index(124, 123, 30) size(55, 26, 51)
+    bounding box: (124, 178) (123, 148) (30, 80) 

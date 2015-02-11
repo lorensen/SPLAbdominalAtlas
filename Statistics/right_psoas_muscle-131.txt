@@ -1,0 +1,12 @@
+Name:  right_psoas_muscle
+Label: 131
+    count: 26020
+    min: 909
+    max: 1237
+    median: 1638.38
+    mean: 1048.56
+    sigma: 27.2201
+    variance: 740.933
+    sum: 2.72836e+07
+    region: index(70, 77, 34) size(43, 62, 78)
+    bounding box: (70, 112) (77, 138) (34, 111) 

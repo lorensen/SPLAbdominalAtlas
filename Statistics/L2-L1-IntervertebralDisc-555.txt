@@ -1,0 +1,12 @@
+Name:  L2-L1-IntervertebralDisc
+Label: 555
+    count: 4596
+    min: 1068
+    max: 1443
+    median: 1638.38
+    mean: 1176.26
+    sigma: 44.9199
+    variance: 2017.8
+    sum: 5.4061e+06
+    region: index(105, 83, 39) size(37, 31, 6)
+    bounding box: (105, 141) (83, 113) (39, 44) 

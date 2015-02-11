@@ -1,0 +1,12 @@
+Name:  left_internal_oblique_muscle
+Label: 236
+    count: 23593
+    min: 875
+    max: 1151
+    median: 1638.38
+    mean: 1021.72
+    sigma: 32.1172
+    variance: 1031.51
+    sum: 2.41055e+07
+    region: index(154, 77, 47) size(71, 87, 65)
+    bounding box: (154, 224) (77, 163) (47, 111) 

@@ -1,0 +1,12 @@
+Name:  right_kidney
+Label: 51
+    count: 35862
+    min: 920
+    max: 1184
+    median: 1638.38
+    mean: 1084.76
+    sigma: 38.2497
+    variance: 1463.04
+    sum: 3.89016e+07
+    region: index(57, 72, 24) size(48, 51, 41)
+    bounding box: (57, 104) (72, 122) (24, 64) 

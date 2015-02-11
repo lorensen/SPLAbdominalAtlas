@@ -1,0 +1,12 @@
+Name:  right_hepatic_vein
+Label: 151
+    count: 1357
+    min: 1036
+    max: 1094
+    median: 1638.38
+    mean: 1065.33
+    sigma: 9.95172
+    variance: 99.0367
+    sum: 1.44565e+06
+    region: index(47, 110, 14) size(55, 24, 36)
+    bounding box: (47, 101) (110, 133) (14, 49) 

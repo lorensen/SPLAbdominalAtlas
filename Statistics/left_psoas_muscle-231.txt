@@ -1,0 +1,12 @@
+Name:  left_psoas_muscle
+Label: 231
+    count: 25201
+    min: 912
+    max: 1264
+    median: 1638.38
+    mean: 1047.96
+    sigma: 30.4931
+    variance: 929.83
+    sum: 2.64097e+07
+    region: index(135, 76, 32) size(40, 63, 80)
+    bounding box: (135, 174) (76, 138) (32, 111) 

@@ -1,0 +1,12 @@
+Name:  T10-T9-IntervertebralDisc
+Label: 559
+    count: 974
+    min: 862
+    max: 1611
+    median: 1638.38
+    mean: 1198.81
+    sigma: 109.981
+    variance: 12095.8
+    sum: 1.16764e+06
+    region: index(106, 75, 1) size(30, 28, 2)
+    bounding box: (106, 135) (75, 102) (1, 2) 

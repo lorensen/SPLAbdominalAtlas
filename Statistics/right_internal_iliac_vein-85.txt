@@ -1,0 +1,12 @@
+Name:  right_internal_iliac_vein
+Label: 85
+    count: 468
+    min: 935
+    max: 1175
+    median: 1638.38
+    mean: 1045.69
+    sigma: 35.29
+    variance: 1245.39
+    sum: 489384
+    region: index(90, 87, 96) size(14, 24, 9)
+    bounding box: (90, 103) (87, 110) (96, 104) 

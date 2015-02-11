@@ -1,0 +1,12 @@
+Name:  Sacrum
+Label: 600
+    count: 43262
+    min: 914
+    max: 2061
+    median: 1638.38
+    mean: 1148.99
+    sigma: 137.794
+    variance: 18987.1
+    sum: 4.97077e+07
+    region: index(81, 50, 85) size(81, 60, 27)
+    bounding box: (81, 161) (50, 109) (85, 111) 

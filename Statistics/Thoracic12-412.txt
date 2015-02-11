@@ -1,0 +1,12 @@
+Name:  Thoracic12
+Label: 412
+    count: 8919
+    min: 985
+    max: 1894
+    median: 1638.38
+    mean: 1211.18
+    sigma: 131.29
+    variance: 17237
+    sum: 1.08025e+07
+    region: index(102, 51, 18) size(39, 55, 17)
+    bounding box: (102, 140) (51, 105) (18, 34) 

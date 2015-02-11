@@ -1,0 +1,12 @@
+Name:  right_common_iliac_vein
+Label: 81
+    count: 1078
+    min: 936
+    max: 1153
+    median: 1638.38
+    mean: 1051.1
+    sigma: 24.5874
+    variance: 604.54
+    sum: 1.13308e+06
+    region: index(90, 102, 83) size(20, 18, 13)
+    bounding box: (90, 109) (102, 119) (83, 95) 

@@ -1,0 +1,12 @@
+Name:  left_gastric_artery
+Label: 18
+    count: 625
+    min: 908
+    max: 1182
+    median: 1638.38
+    mean: 988.04
+    sigma: 47.2181
+    variance: 2229.55
+    sum: 617525
+    region: index(130, 127, 22) size(31, 16, 5)
+    bounding box: (130, 160) (127, 142) (22, 26) 

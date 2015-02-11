@@ -1,0 +1,12 @@
+Name:  left_renal_artery
+Label: 29
+    count: 1509
+    min: 928
+    max: 1215
+    median: 1638.38
+    mean: 1070.53
+    sigma: 54.0974
+    variance: 2926.53
+    sum: 1.61543e+06
+    region: index(141, 94, 33) size(29, 27, 12)
+    bounding box: (141, 169) (94, 120) (33, 44) 

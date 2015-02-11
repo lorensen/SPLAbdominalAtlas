@@ -1,0 +1,12 @@
+Name:  spleen
+Label: 4
+    count: 13154
+    min: 801
+    max: 1119
+    median: 1638.38
+    mean: 1054.3
+    sigma: 36.9941
+    variance: 1368.57
+    sum: 1.38682e+07
+    region: index(152, 68, 16) size(68, 54, 14)
+    bounding box: (152, 219) (68, 121) (16, 29) 

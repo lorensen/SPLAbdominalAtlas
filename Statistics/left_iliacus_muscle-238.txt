@@ -1,0 +1,12 @@
+Name:  left_iliacus_muscle
+Label: 238
+    count: 7673
+    min: 925
+    max: 1148
+    median: 1638.38
+    mean: 1059.02
+    sigma: 30.627
+    variance: 938.011
+    sum: 8.12583e+06
+    region: index(156, 94, 85) size(46, 63, 27)
+    bounding box: (156, 201) (94, 156) (85, 111) 

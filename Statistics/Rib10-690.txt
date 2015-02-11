@@ -1,0 +1,12 @@
+Name:  Rib10
+Label: 690
+    count: 10468
+    min: 762
+    max: 1827
+    median: 1638.38
+    mean: 1222.39
+    sigma: 150.038
+    variance: 22511.5
+    sum: 1.2796e+07
+    region: index(24, 53, 1) size(199, 82, 46)
+    bounding box: (24, 222) (53, 134) (1, 46) 

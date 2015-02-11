@@ -1,0 +1,12 @@
+Name:  L3-L2-IntervertebralDisc
+Label: 554
+    count: 4860
+    min: 1045
+    max: 1575
+    median: 1638.38
+    mean: 1176.08
+    sigma: 47.5383
+    variance: 2259.89
+    sum: 5.71574e+06
+    region: index(104, 86, 50) size(39, 32, 6)
+    bounding box: (104, 142) (86, 117) (50, 55) 

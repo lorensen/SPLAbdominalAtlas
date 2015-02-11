@@ -1,0 +1,12 @@
+Name:  stomach_and_duodenum
+Label: 13
+    count: 68541
+    min: 0
+    max: 1179
+    median: 1638.38
+    mean: 941.416
+    sigma: 237.201
+    variance: 56264.3
+    sum: 6.45256e+07
+    region: index(83, 101, 1) size(111, 78, 63)
+    bounding box: (83, 193) (101, 178) (1, 63) 

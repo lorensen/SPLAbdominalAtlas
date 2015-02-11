@@ -1,0 +1,12 @@
+Name:  L4-L3-IntervertebralDisc
+Label: 553
+    count: 4138
+    min: 1060
+    max: 1345
+    median: 1638.38
+    mean: 1165.07
+    sigma: 37.389
+    variance: 1397.94
+    sum: 4.82106e+06
+    region: index(104, 89, 64) size(40, 30, 5)
+    bounding box: (104, 143) (89, 118) (64, 68) 

@@ -1,0 +1,12 @@
+Name:  left_common_iliac_artery
+Label: 72
+    count: 653
+    min: 946
+    max: 1343
+    median: 1638.38
+    mean: 1184.26
+    sigma: 70.1048
+    variance: 4914.68
+    sum: 773323
+    region: index(127, 109, 79) size(24, 17, 9)
+    bounding box: (127, 150) (109, 125) (79, 87) 

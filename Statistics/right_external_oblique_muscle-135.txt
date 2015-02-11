@@ -1,0 +1,12 @@
+Name:  right_external_oblique_muscle
+Label: 135
+    count: 41929
+    min: 560
+    max: 1136
+    median: 1638.38
+    mean: 995.254
+    sigma: 38.7645
+    variance: 1502.69
+    sum: 4.173e+07
+    region: index(14, 71, 16) size(57, 129, 68)
+    bounding box: (14, 70) (71, 199) (16, 83) 

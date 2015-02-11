@@ -1,0 +1,12 @@
+Name:  left_internal_iliac_artery
+Label: 76
+    count: 511
+    min: 946
+    max: 1286
+    median: 1638.38
+    mean: 1089.04
+    sigma: 77.0035
+    variance: 5929.54
+    sum: 556499
+    region: index(139, 96, 88) size(11, 22, 14)
+    bounding box: (139, 149) (96, 117) (88, 101) 

@@ -1,0 +1,12 @@
+Name:  left_external_iliac_artery
+Label: 74
+    count: 941
+    min: 938
+    max: 1263
+    median: 1638.38
+    mean: 1133.67
+    sigma: 62.502
+    variance: 3906.5
+    sum: 1.06679e+06
+    region: index(146, 108, 88) size(23, 38, 24)
+    bounding box: (146, 168) (108, 145) (88, 111) 

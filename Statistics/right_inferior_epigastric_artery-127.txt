@@ -1,0 +1,12 @@
+Name:  right_inferior_epigastric_artery
+Label: 127
+    count: 495
+    min: 190
+    max: 1123
+    median: 1638.38
+    mean: 993.826
+    sigma: 113.079
+    variance: 12786.8
+    sum: 491944
+    region: index(83, 152, 78) size(16, 10, 34)
+    bounding box: (83, 98) (152, 161) (78, 111) 

@@ -1,0 +1,12 @@
+Name:  right_gluteus_minimus_muscle
+Label: 139
+    count: 6762
+    min: 916
+    max: 1139
+    median: 1638.38
+    mean: 1049.47
+    sigma: 23.7702
+    variance: 565.021
+    sum: 7.09655e+06
+    region: index(31, 88, 96) size(39, 61, 16)
+    bounding box: (31, 69) (88, 148) (96, 111) 

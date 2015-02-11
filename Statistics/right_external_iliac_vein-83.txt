@@ -1,0 +1,12 @@
+Name:  right_external_iliac_vein
+Label: 83
+    count: 924
+    min: 924
+    max: 1160
+    median: 1638.38
+    mean: 1042.54
+    sigma: 25.6326
+    variance: 657.029
+    sum: 963305
+    region: index(83, 110, 96) size(13, 20, 16)
+    bounding box: (83, 95) (110, 129) (96, 111) 

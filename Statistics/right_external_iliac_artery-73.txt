@@ -1,0 +1,12 @@
+Name:  right_external_iliac_artery
+Label: 73
+    count: 802
+    min: 943
+    max: 1253
+    median: 1638.38
+    mean: 1137.62
+    sigma: 67.5086
+    variance: 4557.41
+    sum: 912370
+    region: index(78, 118, 89) size(26, 19, 23)
+    bounding box: (78, 103) (118, 136) (89, 111) 

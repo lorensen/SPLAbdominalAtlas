@@ -1,0 +1,12 @@
+Name:  Lumbar2
+Label: 502
+    count: 10018
+    min: 991
+    max: 2105
+    median: 1638.38
+    mean: 1244.61
+    sigma: 170.371
+    variance: 29026.2
+    sum: 1.24685e+07
+    region: index(87, 52, 40) size(65, 63, 21)
+    bounding box: (87, 151) (52, 114) (40, 60) 

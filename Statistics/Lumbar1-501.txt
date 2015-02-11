@@ -1,0 +1,12 @@
+Name:  Lumbar1
+Label: 501
+    count: 9295
+    min: 989
+    max: 2037
+    median: 1638.38
+    mean: 1228.36
+    sigma: 157.288
+    variance: 24739.4
+    sum: 1.14176e+07
+    region: index(93, 51, 29) size(54, 60, 17)
+    bounding box: (93, 146) (51, 110) (29, 45) 

@@ -1,0 +1,12 @@
+Name:  right_adrenal_gland
+Label: 111
+    count: 612
+    min: 941
+    max: 1084
+    median: 1638.38
+    mean: 1014.36
+    sigma: 33.148
+    variance: 1098.79
+    sum: 620787
+    region: index(96, 95, 24) size(14, 18, 9)
+    bounding box: (96, 109) (95, 112) (24, 32) 
