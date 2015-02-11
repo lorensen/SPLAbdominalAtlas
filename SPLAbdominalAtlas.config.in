@@ -1,0 +1,15 @@
+AtlasName: SPLAbdominalAtlas
+VolumeFileName: @SPLAbdominalAtlas_SOURCE_DIR@/Atlas/I.nrrd
+LabelFileName: @SPLAbdominalAtlas_SOURCE_DIR@/Atlas/seg.nrrd
+ColorTableFileName: @SPLAbdominalAtlas_SOURCE_DIR@/Atlas/AbdominalAtlasColors.ctbl
+AdjacenciesFileName: @SPLAbdominalAtlas_SOURCE_DIR@/Models/adjacencies.txt
+ModelsDirectory: @SPLAbdominalAtlas_SOURCE_DIR@/Models
+VTKDirectory: @SPLAbdominalAtlas_SOURCE_DIR@/Models/VTK
+STLDirectory: @SPLAbdominalAtlas_SOURCE_DIR@/Models/STL
+ScreenshotDirectory: @SPLAbdominalAtlas_SOURCE_DIR@/Models/Screenshot
+ChangesDirectory: @SPLAbdominalAtlas_SOURCE_DIR@/Changes
+StatisticsDirectory: @SPLAbdominalAtlas_SOURCE_DIR@/Statistics
+MRMLDirectory: @SPLAbdominalAtlas_BINARY_DIR@/MRML
+GitDirectory: @SPLAbdominalAtlas_SOURCE_DIR@
+FiducialsDirectory: @SPLAbdominalAtlas_BINARY_DIR@/Fiducials
+
