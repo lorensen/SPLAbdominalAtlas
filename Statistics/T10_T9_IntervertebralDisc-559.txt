@@ -1,4 +1,4 @@
-Name:  T10-T9-IntervertebralDisc
+Name:  T10_T9_IntervertebralDisc
 Label: 559
     count: 974
     min: 862

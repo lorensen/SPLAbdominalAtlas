@@ -1,4 +1,4 @@
-Name:  Sacrum-L5-IntervertebralDisc
+Name:  Sacrum_L5_IntervertebralDisc
 Label: 551
     count: 2345
     min: 1013

@@ -1,4 +1,4 @@
-Name:  L2-L1-IntervertebralDisc
+Name:  L2_L1_IntervertebralDisc
 Label: 555
     count: 4596
     min: 1068

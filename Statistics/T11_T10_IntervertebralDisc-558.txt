@@ -1,4 +1,4 @@
-Name:  T11-T10-IntervertebralDisc
+Name:  T11_T10_IntervertebralDisc
 Label: 558
     count: 2698
     min: 1041

@@ -1,4 +1,4 @@
-Name:  L4-L3-IntervertebralDisc
+Name:  L4_L3_IntervertebralDisc
 Label: 553
     count: 4138
     min: 1060

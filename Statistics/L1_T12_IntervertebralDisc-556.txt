@@ -1,4 +1,4 @@
-Name:  L1-T12-IntervertebralDisc
+Name:  L1_T12_IntervertebralDisc
 Label: 556
     count: 3151
     min: 1039
