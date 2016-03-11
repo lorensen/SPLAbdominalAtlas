@@ -14,4 +14,3 @@ FiducialsDirectory: @SPLAbdominalAtlas_BINARY_DIR@/Fiducials
 GitDirectory: @SPLAbdominalAtlas_SOURCE_DIR@
 GitURL: https://github.com/lorensen/SPLAbdominalAtlas
 GitWikiDirectory: @SPLAbdominalAtlas_SOURCE_DIR@/wiki
-
