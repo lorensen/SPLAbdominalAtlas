@@ -1,12 +1,12 @@
 Name:  colon_and_ileum
 Label: 9
-    count: 204598
+    count: 204606
     min: 21
     max: 1150
     median: 1638.38
-    mean: 881.261
-    sigma: 274.628
-    variance: 75420.7
-    sum: 1.80304e+08
+    mean: 881.264
+    sigma: 274.624
+    variance: 75418.2
+    sum: 1.80312e+08
     region: index(42, 73, 17) size(179, 119, 95)
     bounding box: (42, 220) (73, 191) (17, 111) 
