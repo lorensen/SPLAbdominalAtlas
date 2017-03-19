@@ -15,3 +15,4 @@ GitDirectory: @CMAKE_SOURCE_DIR@
 GitURL: https://github.com/lorensen/@ATLAS_NAME@
 GitDirectory: @CMAKE_SOURCE_DIR@
 GitWikiDirectory: @CMAKE_SOURCE_DIR@/wiki
+WikipediaUrls: @CMAKE_SOURCE_DIR@/Atlas/@ATLAS_NAME@Wikipedia.txt
