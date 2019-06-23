@@ -2,11 +2,11 @@ Name:  left_adrenal_gland
 Label: 112
     count: 1029
     min: 923
-    max: 1090
-    median: 1638.38
-    mean: 1005.57
-    sigma: 38.5938
-    variance: 1489.48
-    sum: 1.03474e+06
+    max: 1091
+    median: 895.986
+    mean: 1005.75
+    sigma: 38.6569
+    variance: 1494.36
+    sum: 1.03492e+06
     region: index(143, 97, 24) size(19, 23, 8)
     bounding box: (143, 161) (97, 119) (24, 31) 

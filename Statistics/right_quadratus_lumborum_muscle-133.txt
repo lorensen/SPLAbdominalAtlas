@@ -2,11 +2,11 @@ Name:  right_quadratus_lumborum_muscle
 Label: 133
     count: 8226
     min: 898
-    max: 1188
-    median: 1638.38
-    mean: 1029.43
-    sigma: 35.1652
-    variance: 1236.59
-    sum: 8.46807e+06
+    max: 1189
+    median: 1151.98
+    mean: 1029.64
+    sigma: 35.1584
+    variance: 1236.11
+    sum: 8.46985e+06
     region: index(50, 69, 39) size(63, 25, 36)
     bounding box: (50, 112) (69, 93) (39, 74) 

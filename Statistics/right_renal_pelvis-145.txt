@@ -2,11 +2,11 @@ Name:  right_renal_pelvis
 Label: 145
     count: 3249
     min: 908
-    max: 1161
-    median: 1638.38
-    mean: 988.45
-    sigma: 38.8931
-    variance: 1512.67
-    sum: 3.21147e+06
+    max: 1162
+    median: 895.986
+    mean: 988.601
+    sigma: 38.9542
+    variance: 1517.43
+    sum: 3.21196e+06
     region: index(71, 85, 31) size(23, 26, 27)
     bounding box: (71, 93) (85, 110) (31, 57) 

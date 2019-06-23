@@ -1,12 +1,12 @@
 Name:  right_iliacus_muscle
 Label: 138
     count: 8314
-    min: 920
+    min: 919
     max: 1141
-    median: 1638.38
-    mean: 1055.03
-    sigma: 30.2374
-    variance: 914.303
-    sum: 8.77154e+06
+    median: 1151.98
+    mean: 1055.04
+    sigma: 30.2493
+    variance: 915.022
+    sum: 8.77158e+06
     region: index(38, 94, 86) size(51, 62, 26)
     bounding box: (38, 88) (94, 155) (86, 111) 

@@ -1,12 +1,12 @@
 Name:  left_external_oblique_muscle
 Label: 235
     count: 37906
-    min: 480
+    min: 481
     max: 1286
-    median: 1638.38
-    mean: 1004.74
-    sigma: 41.6318
-    variance: 1733.21
-    sum: 3.80857e+07
+    median: 895.986
+    mean: 1004.92
+    sigma: 41.7938
+    variance: 1746.72
+    sum: 3.80926e+07
     region: index(187, 74, 16) size(46, 126, 68)
     bounding box: (187, 232) (74, 199) (16, 83) 

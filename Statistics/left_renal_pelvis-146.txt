@@ -2,11 +2,11 @@ Name:  left_renal_pelvis
 Label: 146
     count: 3934
     min: 902
-    max: 1148
-    median: 1638.38
-    mean: 982.86
-    sigma: 41.2567
-    variance: 1702.12
-    sum: 3.86657e+06
+    max: 1149
+    median: 895.986
+    mean: 983.163
+    sigma: 41.3783
+    variance: 1712.17
+    sum: 3.86776e+06
     region: index(154, 83, 29) size(25, 29, 27)
     bounding box: (154, 178) (83, 111) (29, 55) 

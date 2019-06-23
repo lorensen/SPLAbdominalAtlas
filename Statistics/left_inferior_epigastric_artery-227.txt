@@ -1,12 +1,12 @@
 Name:  left_inferior_epigastric_artery
 Label: 227
     count: 480
-    min: 544
-    max: 1166
-    median: 1638.38
-    mean: 1019.39
-    sigma: 68.1035
-    variance: 4638.09
-    sum: 489306
+    min: 543
+    max: 1167
+    median: 1151.98
+    mean: 1019.55
+    sigma: 68.2918
+    variance: 4663.76
+    sum: 489386
     region: index(152, 152, 78) size(11, 7, 34)
     bounding box: (152, 162) (152, 158) (78, 111) 

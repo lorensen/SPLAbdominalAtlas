@@ -2,11 +2,11 @@ Name:  right_renal_artery
 Label: 126
     count: 1220
     min: 917
-    max: 1250
-    median: 1638.38
-    mean: 1050.52
-    sigma: 47.7085
-    variance: 2276.11
-    sum: 1.28164e+06
+    max: 1251
+    median: 1151.98
+    mean: 1050.81
+    sigma: 47.8286
+    variance: 2287.58
+    sum: 1.28199e+06
     region: index(80, 98, 35) size(47, 25, 14)
     bounding box: (80, 126) (98, 122) (35, 48) 

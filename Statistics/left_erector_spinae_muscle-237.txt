@@ -2,11 +2,11 @@ Name:  left_erector_spinae_muscle
 Label: 237
     count: 69616
     min: 893
-    max: 1339
-    median: 1638.38
-    mean: 1035.13
-    sigma: 33.8334
-    variance: 1144.7
-    sum: 7.20615e+07
+    max: 1340
+    median: 1151.98
+    mean: 1035.41
+    sigma: 33.8895
+    variance: 1148.5
+    sum: 7.20808e+07
     region: index(120, 48, 1) size(63, 37, 110)
     bounding box: (120, 182) (48, 84) (1, 110) 

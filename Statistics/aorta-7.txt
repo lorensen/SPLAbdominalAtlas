@@ -2,11 +2,11 @@ Name:  aorta
 Label: 7
     count: 16752
     min: 809
-    max: 1519
-    median: 1638.38
-    mean: 1223.01
-    sigma: 64.0674
-    variance: 4104.63
-    sum: 2.04879e+07
+    max: 1520
+    median: 1151.98
+    mean: 1223.3
+    sigma: 64.0772
+    variance: 4105.89
+    sum: 2.04928e+07
     region: index(112, 84, 1) size(44, 50, 78)
     bounding box: (112, 155) (84, 133) (1, 78) 

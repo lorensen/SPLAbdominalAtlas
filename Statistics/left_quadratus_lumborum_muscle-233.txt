@@ -3,10 +3,10 @@ Label: 233
     count: 8909
     min: 908
     max: 1222
-    median: 1638.38
-    mean: 1033.53
-    sigma: 34.9235
-    variance: 1219.65
-    sum: 9.20771e+06
+    median: 1151.98
+    mean: 1033.81
+    sigma: 34.9663
+    variance: 1222.64
+    sum: 9.21017e+06
     region: index(133, 67, 35) size(58, 26, 40)
     bounding box: (133, 190) (67, 92) (35, 74) 

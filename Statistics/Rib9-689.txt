@@ -1,12 +1,12 @@
 Name:  Rib9
 Label: 689
     count: 7660
-    min: 627
+    min: 628
     max: 1786
-    median: 1638.38
-    mean: 1197.39
-    sigma: 149.722
-    variance: 22416.6
-    sum: 9.17198e+06
+    median: 1151.98
+    mean: 1197.73
+    sigma: 149.828
+    variance: 22448.5
+    sum: 9.17457e+06
     region: index(19, 54, 1) size(209, 95, 40)
     bounding box: (19, 227) (54, 148) (1, 40) 

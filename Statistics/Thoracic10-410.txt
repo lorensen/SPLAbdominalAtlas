@@ -2,11 +2,11 @@ Name:  Thoracic10
 Label: 410
     count: 5996
     min: 982
-    max: 1783
-    median: 1638.38
-    mean: 1216.95
-    sigma: 125.144
-    variance: 15661.1
-    sum: 7.29685e+06
+    max: 1784
+    median: 1151.98
+    mean: 1217.34
+    sigma: 125.193
+    variance: 15673.2
+    sum: 7.29918e+06
     region: index(101, 48, 1) size(43, 53, 14)
     bounding box: (101, 143) (48, 100) (1, 14) 

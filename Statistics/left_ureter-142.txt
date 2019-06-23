@@ -3,10 +3,10 @@ Label: 142
     count: 1813
     min: 908
     max: 1163
-    median: 1638.38
-    mean: 968.822
-    sigma: 38.2904
-    variance: 1466.15
-    sum: 1.75648e+06
+    median: 895.986
+    mean: 969.163
+    sigma: 38.4011
+    variance: 1474.64
+    sum: 1.75709e+06
     region: index(139, 99, 42) size(28, 33, 58)
     bounding box: (139, 166) (99, 131) (42, 99) 

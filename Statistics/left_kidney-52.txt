@@ -1,12 +1,12 @@
 Name:  left_kidney
 Label: 52
     count: 35826
-    min: 904
+    min: 903
     max: 1190
-    median: 1638.38
-    mean: 1081.3
-    sigma: 36.878
-    variance: 1359.99
-    sum: 3.87386e+07
+    median: 1151.98
+    mean: 1081.52
+    sigma: 36.9575
+    variance: 1365.86
+    sum: 3.87464e+07
     region: index(144, 71, 25) size(51, 48, 39)
     bounding box: (144, 194) (71, 118) (25, 63) 

@@ -3,10 +3,10 @@ Label: 141
     count: 1647
     min: 904
     max: 1129
-    median: 1638.38
-    mean: 965.081
-    sigma: 37.7645
-    variance: 1426.16
-    sum: 1.58949e+06
+    median: 895.986
+    mean: 965.308
+    sigma: 37.8618
+    variance: 1433.51
+    sum: 1.58986e+06
     region: index(89, 102, 42) size(18, 32, 58)
     bounding box: (89, 106) (102, 133) (42, 99) 

@@ -1,12 +1,12 @@
 Name:  Rib8
 Label: 688
     count: 5630
-    min: 930
-    max: 1623
-    median: 1638.38
-    mean: 1147.66
-    sigma: 111.449
-    variance: 12420.9
-    sum: 6.46134e+06
+    min: 931
+    max: 1624
+    median: 1151.98
+    mean: 1147.97
+    sigma: 111.593
+    variance: 12452.9
+    sum: 6.46309e+06
     region: index(19, 83, 1) size(210, 81, 34)
     bounding box: (19, 228) (83, 163) (1, 34) 

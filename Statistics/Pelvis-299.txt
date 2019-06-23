@@ -2,11 +2,11 @@ Name:  Pelvis
 Label: 299
     count: 86900
     min: 880
-    max: 2254
-    median: 1638.38
-    mean: 1225.94
-    sigma: 185.738
-    variance: 34498.7
-    sum: 1.06534e+08
+    max: 2255
+    median: 1151.98
+    mean: 1226.11
+    sigma: 185.757
+    variance: 34505.7
+    sum: 1.06549e+08
     region: index(20, 51, 75) size(201, 103, 37)
     bounding box: (20, 220) (51, 153) (75, 111) 

@@ -2,11 +2,11 @@ Name:  right_common_iliac_artery
 Label: 71
     count: 1073
     min: 936
-    max: 1675
-    median: 1638.38
-    mean: 1183.44
-    sigma: 102.341
-    variance: 10473.7
-    sum: 1.26983e+06
+    max: 1676
+    median: 1151.98
+    mean: 1183.68
+    sigma: 102.356
+    variance: 10476.8
+    sum: 1.27009e+06
     region: index(96, 115, 79) size(29, 16, 10)
     bounding box: (96, 124) (115, 130) (79, 88) 

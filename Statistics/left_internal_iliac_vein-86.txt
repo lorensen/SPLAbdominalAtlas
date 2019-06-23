@@ -3,10 +3,10 @@ Label: 86
     count: 472
     min: 918
     max: 1181
-    median: 1638.38
-    mean: 1022.26
-    sigma: 45.4772
-    variance: 2068.18
-    sum: 482508
+    median: 895.986
+    mean: 1022.21
+    sigma: 45.5423
+    variance: 2074.11
+    sum: 482482
     region: index(142, 89, 97) size(15, 27, 8)
     bounding box: (142, 156) (89, 115) (97, 104) 

@@ -2,11 +2,11 @@ Name:  right_internal_iliac_artery
 Label: 75
     count: 548
     min: 921
-    max: 1318
-    median: 1638.38
-    mean: 1101.87
-    sigma: 75.5929
-    variance: 5714.28
-    sum: 603826
+    max: 1319
+    median: 1151.98
+    mean: 1102.05
+    sigma: 75.822
+    variance: 5748.97
+    sum: 603924
     region: index(92, 95, 89) size(19, 25, 13)
     bounding box: (92, 110) (95, 119) (89, 101) 

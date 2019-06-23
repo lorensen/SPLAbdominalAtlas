@@ -2,11 +2,11 @@ Name:  T11_T10_IntervertebralDisc
 Label: 558
     count: 2698
     min: 1041
-    max: 1443
-    median: 1638.38
-    mean: 1180.36
-    sigma: 61.8711
-    variance: 3828.03
-    sum: 3.1846e+06
+    max: 1444
+    median: 1151.98
+    mean: 1180.66
+    sigma: 61.9245
+    variance: 3834.64
+    sum: 3.18541e+06
     region: index(106, 76, 7) size(33, 27, 5)
     bounding box: (106, 138) (76, 102) (7, 11) 

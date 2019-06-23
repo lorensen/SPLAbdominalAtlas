@@ -3,10 +3,10 @@ Label: 505
     count: 15210
     min: 956
     max: 2115
-    median: 1638.38
-    mean: 1249
-    sigma: 169.408
-    variance: 28699.2
-    sum: 1.89973e+07
+    median: 1151.98
+    mean: 1249.17
+    sigma: 169.512
+    variance: 28734.3
+    sum: 1.89999e+07
     region: index(89, 56, 74) size(66, 61, 17)
     bounding box: (89, 154) (56, 116) (74, 90) 

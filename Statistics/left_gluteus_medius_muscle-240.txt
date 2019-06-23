@@ -2,11 +2,11 @@ Name:  left_gluteus_medius_muscle
 Label: 240
     count: 32383
     min: 896
-    max: 1165
-    median: 1638.38
-    mean: 1041.62
-    sigma: 29.6704
-    variance: 880.331
-    sum: 3.37308e+07
+    max: 1164
+    median: 1151.98
+    mean: 1041.77
+    sigma: 29.7439
+    variance: 884.7
+    sum: 3.37356e+07
     region: index(161, 65, 80) size(69, 87, 32)
     bounding box: (161, 229) (65, 151) (80, 111) 

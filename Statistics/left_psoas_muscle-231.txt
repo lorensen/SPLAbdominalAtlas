@@ -3,10 +3,10 @@ Label: 231
     count: 25201
     min: 912
     max: 1264
-    median: 1638.38
-    mean: 1047.96
-    sigma: 30.4931
-    variance: 929.83
-    sum: 2.64097e+07
+    median: 1151.98
+    mean: 1048.19
+    sigma: 30.5372
+    variance: 932.519
+    sum: 2.64154e+07
     region: index(135, 76, 32) size(40, 63, 80)
     bounding box: (135, 174) (76, 138) (32, 111) 

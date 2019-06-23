@@ -2,11 +2,11 @@ Name:  Lumbar3
 Label: 503
     count: 14328
     min: 977
-    max: 2096
-    median: 1638.38
-    mean: 1244.96
-    sigma: 156.431
-    variance: 24470.6
-    sum: 1.78378e+07
+    max: 2097
+    median: 1151.98
+    mean: 1245.08
+    sigma: 156.522
+    variance: 24499.2
+    sum: 1.78396e+07
     region: index(84, 54, 52) size(75, 65, 21)
     bounding box: (84, 158) (54, 118) (52, 72) 

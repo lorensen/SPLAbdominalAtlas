@@ -2,11 +2,11 @@ Name:  left_hepatic_vein
 Label: 153
     count: 309
     min: 928
-    max: 1106
-    median: 1638.38
-    mean: 1030.72
-    sigma: 41.8748
-    variance: 1753.5
-    sum: 318494
+    max: 1107
+    median: 1151.98
+    mean: 1031.02
+    sigma: 41.9769
+    variance: 1762.06
+    sum: 318584
     region: index(101, 130, 15) size(15, 18, 8)
     bounding box: (101, 115) (130, 147) (15, 22) 

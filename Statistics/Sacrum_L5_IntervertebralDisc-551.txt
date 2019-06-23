@@ -2,11 +2,11 @@ Name:  Sacrum_L5_IntervertebralDisc
 Label: 551
     count: 2345
     min: 1013
-    max: 1412
-    median: 1638.38
-    mean: 1153.23
-    sigma: 46.4074
-    variance: 2153.64
-    sum: 2.70431e+06
+    max: 1413
+    median: 1151.98
+    mean: 1153.4
+    sigma: 46.481
+    variance: 2160.49
+    sum: 2.70473e+06
     region: index(102, 88, 88) size(40, 26, 7)
     bounding box: (102, 141) (88, 113) (88, 94) 

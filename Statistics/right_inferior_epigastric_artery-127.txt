@@ -3,10 +3,10 @@ Label: 127
     count: 495
     min: 190
     max: 1123
-    median: 1638.38
-    mean: 993.826
-    sigma: 113.079
-    variance: 12786.8
-    sum: 491944
+    median: 1151.98
+    mean: 993.99
+    sigma: 113.135
+    variance: 12799.6
+    sum: 492025
     region: index(83, 152, 78) size(16, 10, 34)
     bounding box: (83, 98) (152, 161) (78, 111) 

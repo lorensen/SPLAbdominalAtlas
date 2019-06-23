@@ -2,11 +2,11 @@ Name:  Lumbar4
 Label: 504
     count: 12907
     min: 971
-    max: 2120
-    median: 1638.38
-    mean: 1263.27
-    sigma: 174.264
-    variance: 30368.1
-    sum: 1.6305e+07
+    max: 2121
+    median: 1151.98
+    mean: 1263.67
+    sigma: 174.393
+    variance: 30412.9
+    sum: 1.63102e+07
     region: index(90, 57, 63) size(64, 61, 17)
     bounding box: (90, 153) (57, 117) (63, 79) 

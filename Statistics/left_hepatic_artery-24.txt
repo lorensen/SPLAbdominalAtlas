@@ -2,11 +2,11 @@ Name:  left_hepatic_artery
 Label: 24
     count: 285
     min: 938
-    max: 1173
-    median: 1638.38
-    mean: 1028.43
-    sigma: 47.809
-    variance: 2285.7
-    sum: 293103
+    max: 1174
+    median: 1151.98
+    mean: 1028.75
+    sigma: 48.022
+    variance: 2306.11
+    sum: 293195
     region: index(106, 134, 17) size(11, 16, 9)
     bounding box: (106, 116) (134, 149) (17, 25) 

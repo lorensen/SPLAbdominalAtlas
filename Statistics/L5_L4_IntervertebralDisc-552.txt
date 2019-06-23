@@ -2,11 +2,11 @@ Name:  L5_L4_IntervertebralDisc
 Label: 552
     count: 3266
     min: 1074
-    max: 1346
-    median: 1638.38
-    mean: 1167.13
-    sigma: 34.4604
-    variance: 1187.52
-    sum: 3.81183e+06
+    max: 1347
+    median: 1151.98
+    mean: 1167.36
+    sigma: 34.5618
+    variance: 1194.52
+    sum: 3.81261e+06
     region: index(100, 88, 77) size(44, 31, 4)
     bounding box: (100, 143) (88, 118) (77, 80) 

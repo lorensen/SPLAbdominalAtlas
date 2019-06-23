@@ -2,11 +2,11 @@ Name:  gastroduodenal_artery
 Label: 21
     count: 876
     min: 927
-    max: 1238
-    median: 1638.38
-    mean: 1031.84
-    sigma: 54.6072
-    variance: 2981.95
-    sum: 903889
+    max: 1239
+    median: 1151.98
+    mean: 1032.12
+    sigma: 54.682
+    variance: 2990.13
+    sum: 904140
     region: index(88, 131, 30) size(44, 38, 16)
     bounding box: (88, 131) (131, 168) (30, 45) 

@@ -2,11 +2,11 @@ Name:  Thoracic9
 Label: 409
     count: 609
     min: 1057
-    max: 1595
-    median: 1638.38
-    mean: 1310.12
-    sigma: 117.638
-    variance: 13838.7
-    sum: 797861
+    max: 1596
+    median: 1407.98
+    mean: 1310.63
+    sigma: 117.816
+    variance: 13880.5
+    sum: 798174
     region: index(108, 48, 1) size(28, 22, 6)
     bounding box: (108, 135) (48, 69) (1, 6) 

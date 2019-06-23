@@ -2,11 +2,11 @@ Name:  pancreas
 Label: 6
     count: 9492
     min: 900
-    max: 1122
-    median: 1638.38
-    mean: 1044.71
-    sigma: 38.8218
-    variance: 1507.13
-    sum: 9.91641e+06
+    max: 1123
+    median: 1151.98
+    mean: 1044.97
+    sigma: 38.8946
+    variance: 1512.79
+    sum: 9.91885e+06
     region: index(101, 96, 26) size(107, 50, 31)
     bounding box: (101, 207) (96, 145) (26, 56) 

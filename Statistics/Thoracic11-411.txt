@@ -3,10 +3,10 @@ Label: 411
     count: 7454
     min: 998
     max: 1778
-    median: 1638.38
-    mean: 1204.86
-    sigma: 122.951
-    variance: 15116.9
-    sum: 8.98103e+06
+    median: 1151.98
+    mean: 1205.2
+    sigma: 123.014
+    variance: 15132.3
+    sum: 8.98359e+06
     region: index(103, 51, 8) size(36, 52, 16)
     bounding box: (103, 138) (51, 102) (8, 23) 
